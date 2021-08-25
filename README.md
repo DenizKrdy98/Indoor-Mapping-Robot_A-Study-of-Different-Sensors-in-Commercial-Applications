@@ -1,4 +1,4 @@
-# Indoor-Mapping-Robot_A-Study-of-Different-Sensors-in-Commercial-Applications
+# Indoor Mapping Robot: A Study of Different Sensors in Commercial Applications
 
 In this project, the main goal is to do a detailed study of different distance measurement sensors that are used or can be used in indoor mapping applications for commercial use. The preference of the market is dominated by expensive sensors that drives the final product prices dramatically up. This focused study based on an actualized Indoor Mapping Application in which different alternative distance sensors are used will provide a unique perspective to designers to have alternative approaches.  
 
