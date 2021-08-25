@@ -14,3 +14,6 @@ Methodologies:
 - Automated Movement Algorithm of Scanning Robot
 - Mapping Algorithm Development: Combination of Odometrical and Distance Data​
 - Visualization of the Mapping Results (Real-time Graphics)​
+
+Youtube Link:
+https://www.youtube.com/watch?v=z-zdFuJakk8&list=PLf6jBq8fE3h6jXHI_pgNOts_htDwVtTDH&index=1
